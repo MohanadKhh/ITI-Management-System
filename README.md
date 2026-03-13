@@ -128,7 +128,12 @@ Student     → Attendances     : One-to-Many   (Cascade)
 
 ## 🎬 Demo
 
-> 📹 Demo video coming soon
+<video 
+  src="https://github.com/user-attachments/assets/aad56b23-42fe-425e-92a2-7242664177e9"
+  controls
+  width="320"
+  style="border-radius:20px;">
+</video>
 
 ---
 
